@@ -1,1 +1,2 @@
-var open = selfOpen;
+1
+2
